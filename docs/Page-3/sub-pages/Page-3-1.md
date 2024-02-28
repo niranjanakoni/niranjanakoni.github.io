@@ -3,14 +3,14 @@
 
 <details>
 
-<summary style="color: #6cc644">♻GitHub Actions</summary>
+<summary style="color: #6cc644">♻ GitHub Actions</summary>
 
 GitHub Actions is a continuous integration and continuous delivery (CI/CD) platform that allows you to automate your build, test, and deployment pipeline. You can create workflows that build and test every pull request to your repository, or deploy merged pull requests to production.
 
 <br>
 
 <img title="GitHub Actions" alt="actions" width=200px src="images/github_actions.png">
-
+<br>
+For more information, see [GitHub Actions](https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions)
 </details>
 
-For more information, see [GitHub Actions](https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions)
