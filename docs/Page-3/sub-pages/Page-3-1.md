@@ -19,6 +19,9 @@ GitHub Actions is a continuous integration and continuous delivery (CI/CD) platf
 echo "Hello World!"
 </code></pre>
 
+```bash
+echo "Hello World!"
+```
 
 </details>
 
