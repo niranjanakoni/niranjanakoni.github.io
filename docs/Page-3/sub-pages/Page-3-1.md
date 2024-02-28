@@ -10,7 +10,14 @@ GitHub Actions is a continuous integration and continuous delivery (CI/CD) platf
 <br>
 
 <img title="GitHub Actions" alt="actions" width=200px src="images/github_actions.png">
+
 <br>
+
 <p>For more information, see <a href="https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions">GitHub Actions</a></p>
+
+<br>
+
+For more information, see [GitHub Actions](https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions)
+
 </details>
 
